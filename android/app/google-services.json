@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "17950009018",
+    "project_id": "flutter-app-fribase-km1",
+    "storage_bucket": "flutter-app-fribase-km1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17950009018:android:d4c90d1796855d33668483",
+        "android_client_info": {
+          "package_name": "com.ninnin.flutter_app_firebase_km1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17950009018-j6tiuobqeebdtq3515nn0i29mu7o9u0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5B0PrA5n147WFmxSJ1u1IRM-JQEQ0E5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17950009018-j6tiuobqeebdtq3515nn0i29mu7o9u0v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
